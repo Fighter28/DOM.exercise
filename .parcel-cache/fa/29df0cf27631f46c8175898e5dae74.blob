@@ -1,0 +1,4 @@
+const testDiv = dom.find('#test1')[0]
+console.log(testDiv)
+const test2 = dom.find('#test2')[0]
+console.log(testDiv)
